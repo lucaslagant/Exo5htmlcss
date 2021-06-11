@@ -1,0 +1,19 @@
+td /* Toutes les cellules des tableaux. . . */
+{
+    border: 1px solid black; /* auront une bordure de 1px */
+}
+.red{
+    background-color: aquamarine;
+}
+#bnp{
+    color: gold;
+}
+table{
+    border-collapse: collapse;
+}
+caption{
+    margin-bottom: 10px
+}
+.center{
+    text-align: center;
+}
