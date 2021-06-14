@@ -1,0 +1,63 @@
+.Maincontainer{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.green{
+    background-color: green;
+    height: 50px;
+    width:70% ;
+}
+.blue{
+    background-color: blue;
+    height: 50px;
+    width: 34%;
+}
+.red{
+    background-color: red;
+    height: 140px;
+    width:34% ;
+}
+.multi{
+    background-color: gray;
+    height: 150 px;
+    width: 66%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.bleuMarine{
+   background-color : black;
+   height: 200px;
+   width: 100%;
+}
+.orange{
+    background-color: tomato;
+    height: 75px;
+    width: 50%;
+}
+
+.grey{
+    background-color: gray;
+    height: 75px;
+    width: 50%;
+}
+
+.yellow{
+    background-color: yellow;
+    height: 75px;
+    width: 33%;
+}
+
+.bluegreen{
+    background-color: teal;
+    height: 75px;
+    width: 33%;
+}
+.redOrange{
+    background-color: orangered;
+    height: 75px;
+    width: 34%;
+}
+   
